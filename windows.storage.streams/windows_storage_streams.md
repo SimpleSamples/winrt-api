@@ -6,7 +6,7 @@
 # Windows.Storage.Streams
 
 ## -description
-Provides support for reading to and writing from sequential and random access streams.
+Provides support for reading from and writing to sequential and random access streams.
 
 ## -remarks
 A stream is an abstraction of a sequence of bytes, such as a file, I/O device, or a socket. You can perform asynchronous read, write, and seek operations on a stream.
